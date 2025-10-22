@@ -34,3 +34,8 @@
 0.0.0.0 m.doubleclick.net
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 static.doubleclick.net
+
+# [amazon.com]
+0.0.0.0 aan.amazon.com
+0.0.0.0 aax-us-east-retail-direct.amazon.com
+0.0.0.0 fls-na.amazon.com
