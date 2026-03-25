@@ -3,6 +3,10 @@
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 www.googleadservices.com
 
+# [disneydestinations.com]
+0.0.0.0 t.vacations.disneydestinations.com
+0.0.0.0 t.visit.disneydestinations.com
+
 # [doubleclick.net]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
